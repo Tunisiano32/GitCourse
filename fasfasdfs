@@ -1,0 +1,103 @@
+[33mcommit 2d14b6acbd466bb62b8a9d2b3f4d2a754dc34773[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 193f40d 3d1463e
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 13:52:07 2017 -0500
+
+    Merge branch 'master' of https://github.com/Tunisiano32/GitCourse
+
+[33mcommit 193f40dfd408d836c6852efc0f3697d7c23a655a[m
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 13:51:20 2017 -0500
+
+    changed the color of brand class
+
+[33mcommit 3d1463e793ca8c349e11a05e70b0f9e6248ea6fc[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 13:48:06 2017 -0500
+
+    Update README.md
+    
+    Fourth edit.
+
+[33mcommit 08ec77d09b28115810370d40fd3636e476d9909b[m
+Merge: 6a48a20 b2fbbdb
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 13:46:01 2017 -0500
+
+    Merge branch 'master' of https://github.com/Tunisiano32/GitCourse
+
+[33mcommit b2fbbdb463463a56422a6f053f4cf34dadf1b60d[m
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 13:45:36 2017 -0500
+
+    Update README.md
+    
+    Third edit by lara
+
+[33mcommit 6a48a2084907e7144b7dd2748da276bee7f36afb[m
+Merge: 2f117bd 99236d4
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 13:43:21 2017 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 99236d429ccb160a3bbe9fa9c6df957577c35edd[m
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 13:42:20 2017 -0500
+
+    Update README.md
+    
+    Second edit by lara
+
+[33mcommit 2f117bde4e332b441c880953d5b06fbedb4d9dff[m
+Merge: 0c11725 56af1a0
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 13:41:30 2017 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 0c1172589ca08b23b445abf7737a9ebdc20c827a[m
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 13:39:21 2017 -0500
+
+    random stuff
+
+[33mcommit 56af1a03ee2851edfafb2d068c6018a31dec11b1[m
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 13:38:19 2017 -0500
+
+    Update README.md
+    
+    First edit by lara
+
+[33mcommit 8ef113c2e19820d36e71802d66b4b4571743e9b9[m
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 08:18:07 2017 -0500
+
+    Revert "third mistake"
+    
+    This reverts commit 0523a23d3a214aa1052cefc7d3f13eff0b7839a3.
+
+[33mcommit 0523a23d3a214aa1052cefc7d3f13eff0b7839a3[m
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 08:17:11 2017 -0500
+
+    third mistake
+
+[33mcommit 7d784155c8ca73f926bf24ff2f8c89aa7f65be79[m
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 07:49:13 2017 -0500
+
+    Third commit
+
+[33mcommit 899d6ec488b9ac17b39381c455450be143c64b6e[m
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 07:43:24 2017 -0500
+
+    changed title, subtitle and navbar items
+
+[33mcommit 56754923c311f0951393964162bb21d91c112ba7[m
+Author: Tunisiano32 <boubaker.moussa@gmail.com>
+Date:   Mon Dec 18 07:24:07 2017 -0500
+
+    initial commit pushing theme to github
